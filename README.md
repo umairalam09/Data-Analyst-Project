@@ -1,1 +1,1 @@
-# Data-Analyst-Project
+# Loan Sanction Analysis
